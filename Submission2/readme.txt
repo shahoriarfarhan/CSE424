@@ -1,9 +1,9 @@
 Link to unlisted youtube video:
-https://youtube.com/.....
+https://www.youtube.com/watch?v=LPKLuySoxx4
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/shahoriarfarhan/CSE424/blob/main/Submission2/Concept%20map.pdf
 
 Native/original format: 
 https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=information%20extraction#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1RcITkxkcZMJSGl-VVRDrEKsJZzbyXkVr%26export%3Ddownload
